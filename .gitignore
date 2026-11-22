@@ -1,0 +1,4 @@
+ai-scraper/
+__pycache__/
+*.pyc
+.env
